@@ -1,7 +1,22 @@
-# Mathematical-Foundations
+# Mathematical Foundations
 
-This repository contains:
-- notes/: Theoretical explanations, formulas, and summaries
-- projects/: Google Colab notebooks with implementations
-- diagrams/: Visuals created using Manim or draw.io
+## Topics Covered
+- Linear Algebra
+  - Vectors & Matrices
+  - Eigendecomposition, SVD
+- Calculus & Optimization
+  - Gradients, Chain Rule
+  - Newton’s Method, Lagrange Multipliers
+- Probability & Statistics
+  - Bayes, MLE, CLT
+  - Confidence Intervals, Hypothesis Testing
+- Information Theory
+  - Entropy, KL Divergence
+- Numerical Methods
+  - Floating-point, Automatic Differentiation
+
+## Folder Structure
+- notes/
+- projects/
+- diagrams/
 
